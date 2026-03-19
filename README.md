@@ -16,7 +16,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm a passionate Full Stack Developer with experience building responsive web applications using modern technologies. I love working on projects that solve real-world problems, optimizing code, and continuously learning new tools and frameworks.  
+I'm a passionate Front-End Developer with experience building responsive web applications using modern technologies. I love working on projects that solve real-world problems, optimizing code, and continuously learning new tools and frameworks.  
 </p>
 
 ---
@@ -29,7 +29,6 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ### Backend
@@ -52,7 +51,6 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/REST APIs-000000?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
 </p>
 
@@ -71,7 +69,7 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
 
 ## Currently Working On
 <ul>
-  <li>Full Stack React + Node.js Project</li>
+  <li>Learning linFull Stack React + Node.js Project</li>
   <li>Portfolio Website Revamp</li>
   <li>Learning TypeScript & Next.js</li>
 </ul>
@@ -80,7 +78,7 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
 
 ## Connect With Me
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
+  <a href="[YOUR_LINKEDIN_LINK_HERE](https://www.linkedin.com/in/loren-wedderburn/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="YOUR_EMAIL_HERE">
