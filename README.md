@@ -1,9 +1,3 @@
-<!-- Profile Picture -->
-<p align="center">
-  <img src="![image alt](https://github.com/LorenWedderburn/LorenWedderburn/blob/fd414391071419493311b96b55ae7e3cc404a0d2/GitMe.jpg)" alt="Profile Picture" width="150" />
-  ![image alt](https://github.com/LorenWedderburn/LorenWedderburn/blob/fd414391071419493311b96b55ae7e3cc404a0d2/GitMe.jpg)
-</p>
-
 <h1 align="center">Hi, I'm Loren</h1>
 <h2 align="center">Front-End Developer | React.js |SQL | JavaScript</h2>
 
