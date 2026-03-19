@@ -16,7 +16,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm a passionate Front-End Developer with experience building responsive web applications using modern technologies. I love working on projects that solve real-world problems, optimizing code, and continuously learning new tools and frameworks.  
+I'm a passionate Front-End Developer with experience building responsive web applications using modern technologies. I love working on projects that solve real-world problems, optimizing code, and continuously learning new tools and frameworks. More specifically I'm working towards learning and understanding more back-end technologies such as Node.js and Python 
 </p>
 
 ---
@@ -34,9 +34,7 @@ I'm a passionate Front-End Developer with experience building responsive web app
 ### Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
 ### Databases
@@ -61,6 +59,7 @@ I'm a passionate Front-End Developer with experience building responsive web app
   <li>Learning linFull Stack React + Node.js Project</li>
   <li>Portfolio Website Revamp</li>
   <li>Learning TypeScript & Next.js</li>
+  <li>Learning Python</li>
 </ul>
 
 ---
