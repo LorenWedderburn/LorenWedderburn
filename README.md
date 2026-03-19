@@ -56,17 +56,6 @@ I'm a passionate Front-End Developer with experience building responsive web app
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://ghchart.rshah.org/User Name Here" alt="GitHub Contribution Chart" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=User Name Here&theme=default" alt="GitHub Streak" width="40%">
-</div>
-
----
-
 ## Currently Working On
 <ul>
   <li>Learning linFull Stack React + Node.js Project</li>
