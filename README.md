@@ -59,7 +59,7 @@ I'm a passionate Front-End Developer with experience building responsive web app
 
 ## Connect With Me
 <p align="center">
-  <a href="(https://www.linkedin.com/in/loren-wedderburn/)" target="_blank">
+  <a href="https://www.linkedin.com/in/loren-wedderburn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="Lorenwedderburn@hotmail.com">
