@@ -62,10 +62,10 @@ I'm a passionate Front-End Developer with experience building responsive web app
   <a href="(https://www.linkedin.com/in/loren-wedderburn/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_EMAIL_HERE">
+  <a href="Lorenwedderburn@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="YOUR_TWITTER_LINK_HERE" target="_blank">
+  <a href="https://x.com/ThatRennstar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
