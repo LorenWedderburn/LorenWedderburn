@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-<a href="[Github](https://github.com/LorenWedderburn)"><h2>View My GitHub Portfolio</h2></a>
+<a href="https://github.com/LorenWedderburn"><h2>View My GitHub Portfolio</h2></a>
 </div>
 
 ---
@@ -49,7 +49,7 @@ I'm a passionate Front-End Developer with experience building responsive web app
 
 ## Currently Working On
 <ul>
-  <li>Learning Full Stack React + Node.js Project</li>
+  <li>Full Stack React + Node.js Project</li>
   <li>Portfolio Website Revamp</li>
   <li>Learning TypeScript & Next.js</li>
   <li>Learning Python</li>
