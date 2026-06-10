@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-<a href="[YOUR_GITHUB_LINK_HERE](https://github.com/LorenWedderburn)"><h2>View My GitHub Portfolio</h2></a>
+<a href="[Github](https://github.com/LorenWedderburn)"><h2>View My GitHub Portfolio</h2></a>
 </div>
 
 ---
