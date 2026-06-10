@@ -49,7 +49,7 @@ I'm a passionate Front-End Developer with experience building responsive web app
 
 ## Currently Working On
 <ul>
-  <li>Learning linFull Stack React + Node.js Project</li>
+  <li>Learning Full Stack React + Node.js Project</li>
   <li>Portfolio Website Revamp</li>
   <li>Learning TypeScript & Next.js</li>
   <li>Learning Python</li>
