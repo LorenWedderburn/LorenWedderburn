@@ -59,6 +59,8 @@ I'm a passionate Front-End Developer with experience building responsive web app
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenWedderburn&theme=jolly&hide_border=false&border_radius=25&layout=compact)
+
 ## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/loren-wedderburn/" target="_blank">
