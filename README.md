@@ -75,3 +75,5 @@ I'm a passionate Front-End Developer with experience building responsive web app
 </p>
 
 <p align="center"><strong>Thanks for visiting!</strong></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=LorenWedderburn&style=flat-square&color=0284c7)
