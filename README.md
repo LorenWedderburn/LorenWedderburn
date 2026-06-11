@@ -53,6 +53,8 @@ I'm a passionate Front-End Developer with experience building responsive web app
   <li>Full Stack React + Node.js Project</li>
   <li>Portfolio Website Revamp</li>
   <li>Learning Python</li>
+  <li>Creating Portfolio Website<li>
+  <li>Preparing portfolio for junior frontend roles</li>
 </ul>
 
 ---
