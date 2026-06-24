@@ -51,7 +51,7 @@ I'm a passionate Front-End Developer with experience building responsive web app
 ## Currently Working On
 <ul>
   <li>Full Stack React + Node.js Project</li>
-  <li>Working on application Yggdrasil a friends and family connection app</li>li>
+  <li>Working on application Yggdrasil a friends and family connection app</li>
   <li>Preparing portfolio for junior frontend roles</li>
 </ul>
 
